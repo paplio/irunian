@@ -10,3 +10,10 @@ is download the repo, and run irunian.py. <br>
 <br>
  Who knew I could make even github cheesy? 
  <i>Wow.<i> 
+ 
+<br> <br>
+## Sample message and proof that I can say it. :')
+ 
+![Sample message and proof that I can say it](https://i.imgur.com/JAnb3V7.png)
+
+
